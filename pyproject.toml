@@ -1,0 +1,9 @@
+[project]
+name = "recup-dossiers-python"
+version = "1.1.0"
+description = "Folder Path Retriever"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pathlib>=1.0.1",
+]
