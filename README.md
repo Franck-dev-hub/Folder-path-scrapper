@@ -1,4 +1,4 @@
-# Pomodoro timer
+# Folder path scrapper
 ## 📌 Description
 Folder Path Retriever is a simple Python application with a graphical interface (Tkinter) that allows users to:
 - Select a folder.
