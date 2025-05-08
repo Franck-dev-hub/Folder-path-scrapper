@@ -39,6 +39,3 @@ If you encounter issues, ensure:
 
 ## 📜 License
 - This project is licensed under MIT Licence - see the LICENSE.txt file for details.
-
-## 💖 Acknowledgments
-- Inspired by the need for a simple and efficient tool to manage folder and file paths.
